@@ -1,6 +1,6 @@
 # Blog App 📒
 
-A simple Blog add build with a microservice architecture.
+A simple Blog app build with a microservice architecture.
 
 ## Features ✨
 
@@ -18,7 +18,7 @@ A simple Blog add build with a microservice architecture.
 1. Skaffold
 1. NodeJS.
 
-## Installations
+## Installations 🔽
 
 ### Pre-requisites
 
