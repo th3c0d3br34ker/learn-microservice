@@ -1,0 +1,10 @@
+GET http://localhost:4002/posts/123/comments
+
+
+###
+POST  http://localhost:4002/posts/123/comments
+Content-Type: application/json
+
+{
+  "content": "Test Comment 1"
+}

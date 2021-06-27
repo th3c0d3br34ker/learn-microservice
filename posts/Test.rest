@@ -1,0 +1,10 @@
+GET http://localhost:4001/posts
+
+
+###
+POST  http://localhost:4001/posts
+Content-Type: application/json
+
+{
+  "title": "Test Post 2"
+}
